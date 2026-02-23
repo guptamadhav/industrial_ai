@@ -11,7 +11,6 @@ Predicting lumber kiln drying outcomes (final moisture content, drying time, ene
 |----------|------|
 | Notebook | [`Kiln_Drying.ipynb`](Kiln_Drying.ipynb) |
 | Dataset | [`data_schedules/kiln_drying_dataset.csv`](data_schedules/kiln_drying_dataset.csv) |
-| Generator | [`data_schedules/generate_kiln_dataset.py`](data_schedules/generate_kiln_dataset.py) |
 
 ---
 
